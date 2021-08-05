@@ -1,10 +1,10 @@
 [
 	{
 		"id": 4,
-		"title": "FIRENZE ATELIER / 2NDF 700GB",
+		"title": " VATOZ /  Cro 1",
 		"description":
-			"이탈리아 구두장인들의 많은 이탈리아의 피렌체",
-		"price": 79680,
+			"이탈리아 구두장인들의 많은 이탈리아의 피렌체 ",
+		"price": 229000,
 		"imageUrl":
 			"https://github.com/MinsoftK/react/blob/main/shop/src/img/cshoes4.jpg?raw=true"
 	},
@@ -28,10 +28,10 @@
 	},
 	{
 		"id": 7,
-		"title": "DISCOVERY EXPEDITION",
+		"title": " ROUGHNECK",
 		"description":
-			"쾌적하게 매일 신을 수 있는 데일리 미니멀 슈즈",
-		"price": 64500,
+			"R.P.S 136",
+		"price": 176400,
 		"imageUrl":
 			"https://github.com/MinsoftK/react/blob/main/shop/src/img/cshoes7.jpg?raw=true"
 	}
